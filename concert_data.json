@@ -1,7 +1,3 @@
-// this is a concert query data
-
-
-
 [{"Id":1,"ReducedVenue":false,"Date":"2022-10-16T00:00:00","Performer":"Ondricka, Walsh and Morissette","BeginsAt":18,"FullCapacitySales":1832880},
 {"Id":2,"ReducedVenue":false,"Date":"2023-07-09T00:00:00","Performer":"Ryan-Lynch","BeginsAt":12,"FullCapacitySales":1365810},
 {"Id":3,"ReducedVenue":false,"Date":"2023-06-19T00:00:00","Performer":"Williamson Group","BeginsAt":12,"FullCapacitySales":1691580},
