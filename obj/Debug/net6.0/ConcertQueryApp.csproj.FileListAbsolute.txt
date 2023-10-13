@@ -1,0 +1,14 @@
+/Users/fateh/Projects/ConcertQueryApp/bin/Debug/net6.0/ConcertQueryApp
+/Users/fateh/Projects/ConcertQueryApp/bin/Debug/net6.0/ConcertQueryApp.deps.json
+/Users/fateh/Projects/ConcertQueryApp/bin/Debug/net6.0/ConcertQueryApp.runtimeconfig.json
+/Users/fateh/Projects/ConcertQueryApp/bin/Debug/net6.0/ConcertQueryApp.dll
+/Users/fateh/Projects/ConcertQueryApp/bin/Debug/net6.0/ConcertQueryApp.pdb
+/Users/fateh/Projects/ConcertQueryApp/obj/Debug/net6.0/ConcertQueryApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fateh/Projects/ConcertQueryApp/obj/Debug/net6.0/ConcertQueryApp.AssemblyInfoInputs.cache
+/Users/fateh/Projects/ConcertQueryApp/obj/Debug/net6.0/ConcertQueryApp.AssemblyInfo.cs
+/Users/fateh/Projects/ConcertQueryApp/obj/Debug/net6.0/ConcertQueryApp.csproj.CoreCompileInputs.cache
+/Users/fateh/Projects/ConcertQueryApp/obj/Debug/net6.0/ConcertQueryApp.dll
+/Users/fateh/Projects/ConcertQueryApp/obj/Debug/net6.0/refint/ConcertQueryApp.dll
+/Users/fateh/Projects/ConcertQueryApp/obj/Debug/net6.0/ConcertQueryApp.pdb
+/Users/fateh/Projects/ConcertQueryApp/obj/Debug/net6.0/ConcertQueryApp.genruntimeconfig.cache
+/Users/fateh/Projects/ConcertQueryApp/obj/Debug/net6.0/ref/ConcertQueryApp.dll
